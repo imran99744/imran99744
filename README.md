@@ -20,6 +20,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran99744)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imran99744)  
+
+![Profile views](https://gpvc.arturio.dev/imran99744)  
+
 
 
 
