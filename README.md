@@ -18,7 +18,7 @@
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran99744&theme=merko&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran99744&layout=compact)](https://github.com/imran99744/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran99744&layout=compact&theme=merko&show_icons=true)](https://github.com/imran99744/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/imran99744)
 
