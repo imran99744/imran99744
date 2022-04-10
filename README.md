@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on Opensource Projects
 - 🤔 I’m looking for help with MERN Stack Development
 - 💬 Ask me about React.js, Node.js
-- 📫 How to reach me: 
 - ⚡ Fun fact: Sometimes I fix bugs even in my sleep
 
 <h3 align="left">Languages:</h3>
