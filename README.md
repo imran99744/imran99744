@@ -15,3 +15,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imran99744&show_icons=true)  
 
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran&theme=merko&show_icons=true)
+
