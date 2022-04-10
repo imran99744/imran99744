@@ -20,8 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran99744&layout=compact)](https://github.com/imran99744/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imran99744)  
-
 ![Profile views](https://gpvc.arturio.dev/imran99744)
 
 <h3 align="left">Connect with me:</h3>
