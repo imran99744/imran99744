@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Full Stack MERN Developer
-- 🌱 I’m currently learning DSA and System Design
+- 🌱 I’m currently learning DSA and Design Pattern
 - 👯 I’m looking to collaborate on Opensource Projects
 - 🤔 I’m looking for help with MERN Stack Development
 - 💬 Ask me about React.js, Node.js
