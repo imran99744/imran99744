@@ -1,3 +1,5 @@
+![Github Banner](https://user-images.githubusercontent.com/44345923/215864380-363c7ac3-96e3-4921-9ec2-dc718ca4d7e6.jpg)
+
 ### Hi there I'm IMRAN 👋
 
 
