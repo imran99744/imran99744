@@ -80,7 +80,7 @@ My name is **Imran**. I'm a **Full Stack** Developer and **Cloud & DevOps** Engi
 </div>
 
 &nbsp;
-## <📈 My Graph Stats >  
+<h3 align="center">📈 My Graph Stats </h3>  
 
 <p align="center">
 	
