@@ -12,7 +12,7 @@ My name is **Imran**. I'm a **Full Stack** Developer and **Cloud & DevOps** Engi
   
   <a href="https://twitter.com/imrann_1997" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> <a href="https://www.linkedin.com/in/imran-1997/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> <a href="https://dev.to/imran_1997" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
+</a> <a href="https://hashnode.com/@imran1997" target="_blank"><img alt="HashNode" title="MyHashNodeProfile Hashnode" src="https://img.shields.io/badge/hashnode-%236643A4.svg?&style=for-the-badge&logo=Hashnode&logoColor=white">
 </a>
 
 </h1>
