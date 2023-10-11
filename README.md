@@ -24,6 +24,7 @@ My name is **Imran**. I'm a **Full Stack** Developer and **Cloud & DevOps** Engi
 | :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
 |   Software Engineer Intern      |                     [@prayersconnect](https://prayersconnect.com)            | December 2022 - May 2023  |
 |   DevOps Engineer Intern      |                     [@happymonk](https://www.happymonk.co/)            | Jun 2023 - August 2023  |
+|   DevOps Engineer (Full Time)      |                     [@halalz](https://safegaze.com/)            | September 2023 - Present  |
 
 </div>
 &nbsp;
