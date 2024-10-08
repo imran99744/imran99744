@@ -1,4 +1,6 @@
-![Github Banner](https://user-images.githubusercontent.com/44345923/215864380-363c7ac3-96e3-4921-9ec2-dc718ca4d7e6.jpg)
+
+![my-linkedin-cover](https://github.com/user-attachments/assets/38c4bc12-e224-4bc2-b54a-be05a0cefee7)
+
 
 <div id="about-me" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Imran;It's+nice+to+meet+you!"; alt="Typing SVG" /></a>
