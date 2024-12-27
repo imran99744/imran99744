@@ -9,7 +9,17 @@
 
 ## <👨About Me>
 
-My name is **Imran**. I'm a **Cloud & DevOps** and  **Full Stack** Engineer with a passion for **Open Source** 💻. Currently, I'm working as a **DevOps** engineer at **Halalz**. &nbsp;I Believe in **Learning & Upskilling and Empowering Others** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+### Hi there 👋
+
+I'm Imran, a passionate **DevOps Engineer** with 2+ years of experience in building and maintaining cloud infrastructure, CI/CD pipelines, and automation workflows.
+
+- 🔧 Expertise: Docker, Kubernetes, GitHub Actions, Pulumi, Terraform, AWS, Azure, Networking, and Linux.
+- 🚀 Focus: Optimizing infrastructure for scalability and performance.
+- 🌱 Currently exploring: Advanced Kubernetes and Site Reliability Engineering (SRE).
+- 📫 How to reach me: [Email](mailto:mdimrn99@gmail.com)
+
+Check out my repositories to see what I'm working on! 🚀
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
 <h1 align = "center">
   
   <a href="https://twitter.com/imrann_1997" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
