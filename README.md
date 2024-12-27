@@ -9,8 +9,6 @@
 
 ## <👨About Me>
 
-### Hi there 👋
-
 I'm Imran, a passionate **DevOps Engineer** with 2+ years of experience in building and maintaining cloud infrastructure, CI/CD pipelines, and automation workflows.
 
 - 🔧 Expertise: Docker, Kubernetes, GitHub Actions, Pulumi, Terraform, AWS, Azure, Networking, and Linux.
@@ -34,7 +32,7 @@ Check out my repositories to see what I'm working on! 🚀
 
 |      💼 Designation       |                             🏢Organization                              |      ⏰Timeline      |
 | :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
-|   DevOps Engineer (Full Time)      |                     [@halalz/safegaze](https://safegaze.com/)            | September 2023 - Present  |
+|   DevOps Engineer (Full Time)      |                     [@kahf](https://kahf.com.tr/)            | September 2023 - Present  |
 |   DevOps Engineer Intern      |                     [@happymonk](https://www.happymonk.co/)            | Jun 2023 - August 2023  |
 |   Software Engineer Intern      |                     [@prayersconnect](https://prayersconnect.com)            | December 2022 - May 2023  |
 
@@ -54,7 +52,7 @@ Check out my repositories to see what I'm working on! 🚀
 </div>
 &nbsp;
 
-<h2 align="center">🛠 Language, Library & Frameworks🛠</h2>
+<h2 align="center">🛠 Language, Library & Frameworks I know🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
