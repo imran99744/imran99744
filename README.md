@@ -15,7 +15,7 @@ I'm Imran, a passionate **DevOps Engineer** with 2+ years of experience in build
 
 - 🔧 Expertise: Docker, Kubernetes, GitHub Actions, Pulumi, Terraform, AWS, Azure, Networking, and Linux.
 - 🚀 Focus: Optimizing infrastructure for scalability and performance.
-- 🌱 Currently exploring: Advanced Kubernetes and Site Reliability Engineering (SRE).
+- 🌱 Currently exploring: Advanced Kubernetes, MLOps and Site Reliability Engineering (SRE).
 - 📫 How to reach me: [Email](mailto:mdimrn99@gmail.com)
 
 Check out my repositories to see what I'm working on! 🚀
